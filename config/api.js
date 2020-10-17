@@ -1,7 +1,7 @@
 //var NewApiRootUrl = 'https://shop.51shop.ink/demo/api/';
 // var MallApiRootUrl = 'http://81.70.0.224:8085/';
 var MallApiRootUrl = 'http://127.0.0.1:8085/';
-var SearchApiRootUrl = 'http://127.0.0.1:8081/';
+var SearchApiRootUrl = 'http://127.0.0.1:8082/';
 module.exports = {
   //首页数据接口
   IndexUrlBanner: MallApiRootUrl + 'home/content', //首页轮播广告
